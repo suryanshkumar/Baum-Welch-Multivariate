@@ -12,4 +12,6 @@ All the notation in this code are used from his thesis.
 
 I cannot provide the data, kindly insert your own data in Data.m file as per your need.
 
+and make the required changes in accordance with your data in baum_welchmultivariate.m file
+
 
