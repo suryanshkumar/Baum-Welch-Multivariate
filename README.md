@@ -4,7 +4,7 @@ This algorithm is coded in Octave and works fine with MATLAB
 
 To have a better understanding of this algorithm kindly refer to 
 
-Dr. Dizan Vasquez Dissertations 
+Dr. Dizan Vasquez Dissertation
 
 (Incremental Learning for Motion Prediction of Pedestrians and Vehicles) 2007.
 
