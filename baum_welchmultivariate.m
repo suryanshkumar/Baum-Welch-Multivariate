@@ -3,7 +3,7 @@ function [piefin,B_fin,A_fin, pprob]=baum_welchmultivariate
 
 %%
 %% Author : Suryansh Kumar
-%% Helped by: Dr. Dizan Vasquez (e-Motion Group, INRIA-Rhone Alpes Grenoble) 
+%% Supervised by: Dr. Dizan Vasquez (e-Motion Group, INRIA-Rhone Alpes Grenoble) 
 %%
 
 
@@ -24,18 +24,18 @@ K = 3;                                                                  % in my 
 dimension = 2;                                                          % dimension of the data, in my case i am taking two dimensional observation sequence
 
                                                                            % Mean of the different State
-mu_s = [1.63640484335196, 0.01696955871544947];  
-mu_l = [1.232098996335146, -0.01245440042305058];
-mu_r = [2.277275059531387, 0.03523116316805538];
+mu_s = [mu_s1, mu_s2];  
+mu_l = [mu_l1, mu_l2];
+mu_r = [mu_r1, mu_r2];
 
                                                 
                                                                             %Covariance of the different state                
-sigma_s = [0.1226304400462805, -0.003033217397974692; 
-                -0.003033217397974692, 0.0001219569000198429];
-sigma_l = [0.1264054558703316, 0.001501346915114478; 
-                0.001501346915114478, 0.0001483018518731252];
-sigma_r = [0.3379793982997286, 0.003423593905497339;
-                0.003423593905497339, 0.0002361340769614394];
+sigma_s = [s11, s12; 
+                s21, s22];
+sigma_l = [l11, l12; 
+                l21, l22];
+sigma_r = [r11, r12;
+                r21, r22];
             
             
 

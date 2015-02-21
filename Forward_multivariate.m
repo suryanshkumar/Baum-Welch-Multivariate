@@ -5,7 +5,7 @@ function [alpha, po] = Forward_multivariate(O, pie, B, A, N, T)
 
 %%
 %% Author : Suryansh Kumar
-%% Helped by: Dr. Dizan Vasquez (e-Motion Group, INRIA-Rhone Alpes Grenoble) 
+%% Supervised by: Dr. Dizan Vasquez (e-Motion Group, INRIA-Rhone Alpes Grenoble) 
 %%
 
 
