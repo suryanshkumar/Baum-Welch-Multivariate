@@ -10,6 +10,6 @@ Dr. Dizan Vasquez Dissertation
 
 All the notations in this code were taken from his thesis.
 
-I am extremely sorry for not providing the data due to few constraints. Kindly insert your own data in Data.m file as per your need and make the required changes in accordance with your data in baum_welchmultivariate.m file.
+I am extremely sorry for not providing the data due to research lab constraints. Kindly insert your own data in Data.m file as per your need and make the required changes in accordance with your data in baum_welchmultivariate.m file.
 
 
