@@ -1,4 +1,4 @@
-# Baum-WelchMultivariate
+# Baum-Welch-Multivariate
 
 This algorithm is coded in Octave and works fine with MATLAB
 
